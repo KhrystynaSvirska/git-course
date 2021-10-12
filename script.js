@@ -1,3 +1,3 @@
-document.getElementsByTagName('button')[0].onclick = () => {
+document.getElementsByTagName('p')[0].onclick = () => {
     alert('new page');
 }
