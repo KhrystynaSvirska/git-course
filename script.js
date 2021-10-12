@@ -1,1 +1,3 @@
-alert('new page');
+document.getElementsByTagName('button')[0].onclick = () => {
+    alert('new page');
+}
